@@ -3,8 +3,8 @@ import React, { useState } from "react";
 const quizData = [
   {
     question: "What’s my favorite color?",
-    options: ["Red", "Blue", "Green", "Black"],
-    answer: "Blue",
+    options: ["Purple", "Orange", "Red", "Black"],
+    answer: "Purple",
   },
   {
     question: "Where did we first talk?",
@@ -12,9 +12,9 @@ const quizData = [
     answer: "Discord",
   },
   {
-    question: "What’s my go-to comfort food?",
-    options: ["Pizza", "Sushi", "Burgers", "Ice Cream"],
-    answer: "Pizza",
+    question: "Favorite Food?",
+    options: ["Pizza", "Sushi", "Orange Chicken", "Ground Turkey"],
+    answer: "Orange Chicken",
   },
 ];
 
@@ -55,7 +55,7 @@ const Quiz = () => {
           <h2 className="text-2xl font-bold">You did it! 🎉</h2>
           <p className="mt-4">Click below for a surprise!</p>
           <a
-            href="https://open.spotify.com/playlist/YOUR_SPOTIFY_PLAYLIST_LINK"
+            href="https://open.spotify.com/playlist/6fjwXHY3BN0I9KICof5oxG?si=398c9ebde12b4f11"
             target="_blank"
             rel="noopener noreferrer"
             className="block mt-4 bg-white text-green-700 font-bold py-2 px-4 rounded"
