@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/valentine-quiz/static/css/main.1a6cdb46.css",
-    "main.js": "/valentine-quiz/static/js/main.4ce15335.js",
+    "main.css": "/valentine-quiz/static/css/main.657faf3c.css",
+    "main.js": "/valentine-quiz/static/js/main.8788087a.js",
     "index.html": "/valentine-quiz/index.html",
-    "main.1a6cdb46.css.map": "/valentine-quiz/static/css/main.1a6cdb46.css.map",
-    "main.4ce15335.js.map": "/valentine-quiz/static/js/main.4ce15335.js.map"
+    "main.657faf3c.css.map": "/valentine-quiz/static/css/main.657faf3c.css.map",
+    "main.8788087a.js.map": "/valentine-quiz/static/js/main.8788087a.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a6cdb46.css",
-    "static/js/main.4ce15335.js"
+    "static/css/main.657faf3c.css",
+    "static/js/main.8788087a.js"
   ]
 }
