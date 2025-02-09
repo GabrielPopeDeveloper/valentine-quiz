@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/valentine-quiz/static/js/main.016f1569.js",
+    "main.js": "/valentine-quiz/static/js/main.4ce15335.js",
     "index.html": "/valentine-quiz/index.html",
-    "main.016f1569.js.map": "/valentine-quiz/static/js/main.016f1569.js.map"
+    "main.4ce15335.js.map": "/valentine-quiz/static/js/main.4ce15335.js.map"
   },
   "entrypoints": [
-    "static/js/main.016f1569.js"
+    "static/js/main.4ce15335.js"
   ]
 }
